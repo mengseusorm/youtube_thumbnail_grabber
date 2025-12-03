@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "About - YouTube Thumbnail Grabber",
+  title: "About - Get Thumbnail Youtube Video",
   description: "Learn about our free YouTube thumbnail downloader tool and how it helps content creators and designers.",
 };
 
@@ -19,7 +19,7 @@ export default function About() {
               </div>
             </div>
             <h1 className="text-4xl font-bold text-zinc-900 dark:text-white mb-4">
-              About YouTube Thumbnail Grabber
+              About Get Thumbnail Youtube Video
             </h1>
             <p className="text-xl text-zinc-600 dark:text-zinc-300 max-w-3xl mx-auto">
               A simple, fast, and free tool to download YouTube video thumbnails in high quality.
@@ -34,7 +34,7 @@ export default function About() {
               </h2>
               <div className="prose prose-lg dark:prose-invert max-w-none">
                 <p className="text-zinc-600 dark:text-zinc-300 leading-relaxed">
-                  YouTube Thumbnail Grabber is a web-based tool that allows you to quickly and easily download 
+                  Get Thumbnail Youtube Video is a web-based tool that allows you to quickly and easily download 
                   YouTube video thumbnails in various resolutions. Whether you're a content creator, designer, 
                   blogger, or just someone who needs a YouTube thumbnail for a project, our tool makes it simple 
                   to get what you need without any hassle.

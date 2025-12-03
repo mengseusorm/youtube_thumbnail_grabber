@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Privacy Policy - YouTube Thumbnail Grabber",
+  title: "Privacy Policy - Get Thumbnail Youtube Video",
   description: "Learn about how we handle your privacy and data when using our YouTube thumbnail downloader tool.",
 };
 
@@ -29,7 +29,7 @@ export default function Privacy() {
                 1. Introduction
               </h2>
               <p className="text-zinc-600 dark:text-zinc-300 leading-relaxed">
-                YouTube Thumbnail Grabber ("we," "our," or "us") is committed to protecting your privacy. 
+                Get Thumbnail Youtube Video ("we," "our," or "us") is committed to protecting your privacy. 
                 This Privacy Policy explains how we collect, use, and safeguard your information when you 
                 use our website and services. By using our service, you agree to the collection and use 
                 of information in accordance with this policy.

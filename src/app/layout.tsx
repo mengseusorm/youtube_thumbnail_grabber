@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "YouTube Thumbnail Grabber - Download High Quality YouTube Thumbnails",
+  title: "Get Thumbnail Youtube Video - Download High Quality YouTube Thumbnails",
   description: "Download high-quality YouTube video thumbnails in various resolutions. Simply paste a YouTube URL and get instant access to all available thumbnail sizes for free.",
 };
 

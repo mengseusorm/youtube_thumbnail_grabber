@@ -127,7 +127,7 @@ export default function Home() {
               </svg>
             </div>
             <h1 className="text-3xl font-bold text-zinc-900 dark:text-white">
-              YouTube Thumbnail Grabber
+              Get Thumbnail Youtube Video
             </h1>
           </div>
 

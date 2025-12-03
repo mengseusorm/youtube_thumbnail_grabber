@@ -16,7 +16,7 @@ export default function Header() {
             </div>
             <div>
               <h1 className="text-lg font-bold text-zinc-900 dark:text-white">
-                YouTube Thumbnail Grabber
+                Get Thumbnail Youtube Video
               </h1>
               <p className="text-xs text-zinc-500 dark:text-zinc-400 -mt-1">
                 Download thumbnails instantly
